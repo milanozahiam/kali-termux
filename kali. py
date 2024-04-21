@@ -1,14 +1,14 @@
 #########
-import os
+import
 #########
-os.system("clear")
+.system("clear")
 ##################
-os.system("apt update")
-os.system("apt update")
-os.system("termux-setup-storage")
-os.system("pkg install bash -y")
-os.system("pkg install php -y")
-os.system("pkg install wget -y")
-os.system("wget -O install-nethunter-termux https://offs.ec/2MceZWr")
-os.system("chmod +x install-nethunter-termux")
-os.system("./install-nethunter-termux")
+.system("apt update")
+.system("apt update")
+.system("termux-setup-storage")
+.system("pkg install bash -y")
+.system("pkg install php -y")
+.system("pkg install wget -y")
+.system("wget -O install-nethunter-termux https://offs.ec/2MceZWr")
+.system("chmod +x install-nethunter-termux")
+.system("./install-nethunter-termux")
